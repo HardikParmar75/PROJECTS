@@ -38,3 +38,18 @@
 .he1{
     height: 100%;
 }
+.hover1{
+    transition: 0.3s;
+}
+.hover1:hover{
+    transform: rotate(-5deg) scale(1.1);
+    box-shadow: 5px 5px 5px;
+}
+.hover2:hover{
+    transform: rotate(-5deg) scale(1.1);
+    transition: .31s;
+}
+.hover3:hover{
+    transform: rotate(5deg) scale(1.1);
+    transition: .31s;
+}

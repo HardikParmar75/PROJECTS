@@ -3,15 +3,59 @@
 }
 .ab1{
     position: absolute;
-    top: 50%;
-    right: 20%;
+    top: 45%;
+    right: 15%;
+}
+.ab3{
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    width: 100%;
+}
+.c1:hover .ab3{
+    top: 60%;
+    background-color: #0c0b09;
+    transition: 0.3s;
 }
 .khakhi{
     color: #cda45e;;
 }
+.khakhi:hover{
+    color: white;
+}
+.zoom:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+.of{
+    overflow: hidden;
+}
+.hover1{
+    background-color: #26231d;
+}
+.hover1:hover{
+    background-color: #cda45e;
+    transition: 0.3s;
+}
 .khakhi2
 {
     background-color: #cda45e;
+}
+.kha{
+    background-color: transparent;
+    border: 2px solid #cda45e ;
+}
+.kha:hover{
+    background-color: #cda45e;
+    transition: 0.3s;
+    border: 2px solid #cda45e ;
+}
+.playbutton{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .slider{
     padding: 310px 40px;
