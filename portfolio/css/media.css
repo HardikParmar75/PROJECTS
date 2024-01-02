@@ -12,10 +12,16 @@
         padding: 0px;
     }
     .projects{
-        width: 90%;
+        width: 100%;
     }
     .contact-fonts{
         margin-left: 35%;
+    }
+    .contact{
+        width: 100%;
+    }
+    .gray-part p{
+        padding: 20px;
     }
 }
 @media(max-width:768px){
@@ -45,9 +51,6 @@
     }
 }
 @media(max-width:425px){
-    .fullname{
-        clip-path: polygon(0% 0%,100% 0%,100% 90%,50% 100%,0% 90%,0% 0%)
-    }
     .btn{
         font-size: 15px;
     }
@@ -64,10 +67,10 @@
         padding-top: 40%;
     }
     .freelancing{
-        padding: 10px;
+        padding: 70px;
     }
     .freelancing p{
-        font-size: 50px;
+        font-size: 30px;
     }
     .contact-fonts{
         margin-left: 35%;
@@ -77,6 +80,9 @@
     }
     .footer{
         grid-template-columns: 1fr;
+    }
+    .project1{
+        height: 210px;
     }
 }
 @media(max-width:375px){
@@ -92,6 +98,9 @@
     }
     .bigtext{
         padding: 0;
+    }
+    .project1{
+        height: 190px;
     }
     .contact{
         width: 50%;
