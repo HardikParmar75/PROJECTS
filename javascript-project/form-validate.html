@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+    first name:
+    <input type="text" id="inp1" onblur="error1(inp1,b1)">
+    <b id="b1"></b>
+    <br>
+    <br>
+    last name:
+    <input type="text" id="inp2" onblur="error1(inp2,b2)">
+    <b id="b2"></b>
+    <br><br>
+    <input type="submit" onclick=" return error1(inp1,b1,inp2,b2)">
+        </form>
+    <script>
+        fnmerr=/^[a-zA-Z]+$/
+        function error1(x,y){
+            if(x.value=="")
+            {
+                y.innerHTML="*Required";
+                y.style.color="red";
+                return false;
+            }
+            else if(!fnmerr.test(x.value)){
+                y.innerHTML="*only letters considered!"
+                y.style.color="red";
+                return false;
+            }
+            else
+            {
+                y.innerHTML="";
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>
