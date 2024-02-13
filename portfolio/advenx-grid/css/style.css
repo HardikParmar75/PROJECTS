@@ -4,7 +4,7 @@
 }
 body *{
     box-sizing: border-box;
-    border: 1px solid orange;
+    /* border: 1px solid orange; */
     margin: 0;
     padding: 0;
 }
@@ -35,7 +35,7 @@ button
     text-align: center
 }
 .bars{
-    text-align: right;
+    text-align: end;
 }
 .revive{
     width: 80%;

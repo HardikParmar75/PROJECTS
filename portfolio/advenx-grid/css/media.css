@@ -64,6 +64,9 @@
   }
 }
 @media(max-width:768px){
+  .header{
+    grid-template-rows: 1fr 1fr 1fr;
+  }
  .navbar{
   grid-template-columns: 1fr 5fr 1fr;
   padding: 0;
@@ -143,13 +146,24 @@
  }
 }
 @media(max-width:425px){
-  .header{
-    grid-template-rows: 1fr;
+  .navbar{
+    /* font-size: 10px; */
+    /* padding: 0px; */
+    grid-template-columns: 2fr 1fr 1fr;
+  }
+  .bars{
+    text-align: end;
+  }
+  .round{
+    height: 100px;
+    width: 100px;
+    font-size: 20px;
+    margin: 20px;
   }
   .revive{
     width: 100%;
     padding: 0;
-    font-size: 30px;
+    font-size: 20px;
   }
   .letsgo{
     grid-template-columns: 1fr;
@@ -160,11 +174,16 @@
   .twoparts{
     grid-template-columns: 1fr;
   }
+  .left,.right{
+    margin: 20px;
+  }
   .tourdetail{
     grid-template-columns: 1fr;
   }
   .offermain{
     grid-template-rows: 1fr;
+    font-size: 20px;
+    word-spacing: 0;
   }
   .adventuredetail{
     grid-template-columns: 1fr;
@@ -193,7 +212,10 @@
     grid-template-rows: 1fr;
   }
   .ctext{
-    font-size: 40px;
+    font-size: 35px;
+  }
+  .cdetail{
+    font-size: 20px;
   }
   .cnumbers{
     grid-template-columns: 1fr 1fr;

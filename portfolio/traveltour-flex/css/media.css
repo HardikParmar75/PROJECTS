@@ -100,6 +100,10 @@
     .search,.select,.button{
         width: 100%;
     }
+    input,select,button{
+        padding: 13px;
+        font-size: 13px;
+    }
     .populardestinations{
         margin-top: 110%;
     }
@@ -110,6 +114,17 @@
         width: 100%;
     }
     .detail1,.detail2,.detail3{
+        width: 100%;
+    }
+    .detailmain{
+        padding: 10px;
+        font-size: 13px;
+    }
+    .populardestinations{
+        margin-top: 40%;
+        width: 100%;
+    }
+    .populartext{
         width: 100%;
     }
     .size{
@@ -125,7 +140,7 @@
         width: 100%;
     }
     .big{
-        font-size: 40px;
+        font-size: 35px;
     }
     .space{
         margin: 10px;
@@ -149,7 +164,10 @@
         width: 100%;
     }
     .highlightsmain{
-        padding: 100px;
+        padding: 70px;
+    }
+    .reviewpart1,.reviewpart2,.reviewpart3{
+        margin: 10px;
     }
 }
 @media(max-width:375px){

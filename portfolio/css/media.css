@@ -25,11 +25,11 @@
     }
 }
 @media(max-width:768px){
-    .navbar ul li{
-        display: none;
-    }
-    .fa-bars{
+    .bar{
         display: block;
+    }
+    #menu{
+        display: none;
     }
     .aboutme{
         grid-template-columns: 1fr;
@@ -44,15 +44,35 @@
     }
     .contact{
         grid-template-columns: 1fr;
-        width: 70%;
+        width: 100%;
     }
     .contact-fonts{
         margin-left: 42%;
+    }
+    .freelancing{
+        padding: 0;
+    }
+    .freelancing p{
+        font-size: 45px;
+    }
+}
+@media(max-width:500px){
+    .aboutdetail{
+        font-size: 20px;
     }
 }
 @media(max-width:425px){
     .btn{
         font-size: 15px;
+        height: 40px;
+        margin-top: 10px;
+        margin-right: 40px;
+    }
+    #menu li{
+        font-size: 20px;
+    }
+    .logo{
+        font-size: 45px;
     }
     .bigtext{
         font-size: 45px;
@@ -60,7 +80,17 @@
         width: 100%;
     }
     .skilldetail{
+        font-size: 17px;
+    }
+    .skilldetail p{
+        padding: 5px;
+    }
+    .skilldetail a{
+        padding: 10px;
+    }
+    .fullname{
         font-size: 25px;
+        padding: 150px 0 150px 0;
     }
     .scroll{
         font-size: 25px;
@@ -71,6 +101,7 @@
     }
     .freelancing p{
         font-size: 30px;
+        
     }
     .contact-fonts{
         margin-left: 35%;
@@ -84,20 +115,69 @@
     .project1{
         height: 210px;
     }
+    .aboutdetail{
+        font-size: 15px;
+    }
+    .about{
+        font-size: 25px;
+    }
+    .mydetail{
+        padding: 0;
+    }
+    .mydetail p{
+        padding: 5px;
+    }
+    .cv{
+        justify-content: center;
+        text-align: center;
+    }
+    .scroll{
+        padding-top: 60%;
+    }
+    .scroll p{
+        padding: 15px;
+    }
+    .project1:hover .scroll{
+        padding-top: 0%;
+        background-color: rgba(0, 0, 0, 0.445);
+    }
+    .btn2{
+        font-size: 17px;
+        box-shadow: 0 0 5px black;
+    }
+    .contact-fonts{
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+        margin-left: 43%;
+    }
+    .black{
+        font-size: 25px;
+    }
+    .contact-via{
+        font-size: 15px;
+    }
 }
 @media(max-width:375px){
+    .header{
+        padding: 3px;
+    }
     .about{
         font-size: 25px;
     }
     .aboutdetail{
-        font-size: 20px;
+        font-size: 15px;
     }
     .btn{
-        height: 50px;
+        height: 40px;
         width: 40%;
+    }
+    .cv{
+        display: flex;
     }
     .bigtext{
         padding: 0;
+        font-size: 40px;
     }
     .project1{
         height: 190px;
@@ -111,5 +191,31 @@
     }
     .big{
         font-size: 20px;
+    }
+    .bar{
+        font-size: 25px;
+    }
+    .about{
+        font-size: 17px;
+    }
+    .skilldetail{
+        font-size: 15px;
+    }
+    .skilldetail p{
+        padding: 10px;
+    }
+    .freelancing{
+        padding: 50px;
+    }
+    .btn2{
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+    .contact{
+        width: 80%;
+        margin: auto;
+    }
+    .contact-fonts{
+        margin-left: 41%;
     }
 }
