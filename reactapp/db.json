@@ -1,0 +1,316 @@
+{
+  "signupdata": [
+    {
+      "id": "2e23",
+      "name": "test",
+      "email": "test@gmail.com",
+      "phone": "65322456623",
+      "password": "test123"
+    },
+    {
+      "id": "d1c5",
+      "name": "darshanbhai",
+      "email": "dar@gmail.com",
+      "phone": "122244556",
+      "password": "darshan123"
+    }
+  ],
+  "users": [
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2023/11/product-04-a-400x488.jpg",
+      "title": "Product Name 1",
+      "price": "$59.00",
+      "id": "950e"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-14-a-400x488.jpg",
+      "title": "Product Name 10",
+      "price": "$59.00",
+      "id": "a74f"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-09-a-400x488.jpg",
+      "title": "Product Name 11",
+      "price": "$59.00",
+      "id": "1539"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-10-a-400x488.jpg",
+      "title": "Product Name 12",
+      "price": "$59.00",
+      "id": "cb75"
+    }
+  ],
+  "shop": [
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2023/11/product-04-a-400x488.jpg",
+      "title": "Product Name 1",
+      "price": "$59.00",
+      "id": "a302"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-14-a-400x488.jpg",
+      "title": "Product Name 10",
+      "price": "$60.00",
+      "id": "3019"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-09-a-400x488.jpg",
+      "title": "Product Name 11",
+      "price": "$70.00",
+      "id": "f722"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-10-a-400x488.jpg",
+      "title": "Product Name 13",
+      "price": "$71.00",
+      "id": "40c6"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-11-a-400x488.jpg",
+      "title": "Product Name 14",
+      "price": "$72.00",
+      "id": "c3e3"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-12-a-400x488.jpg",
+      "title": "Product Name 15",
+      "price": "$73.00",
+      "id": "e238"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-15-a-400x488.jpg",
+      "title": "Product Name 16",
+      "price": "$74.00",
+      "id": "fd08"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-16-a-400x488.jpg",
+      "title": "Product Name 12",
+      "price": "$59.00",
+      "id": "ee52"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-17-a-400x488.jpg",
+      "title": "Product Name 17",
+      "price": "$59.00",
+      "id": "a570"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-18-a-400x488.jpg",
+      "title": "Product Name 18",
+      "price": "$59.00",
+      "id": "66e1"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-19-a-400x488.jpg",
+      "title": "Product Name 19",
+      "price": "$59.00",
+      "id": "ec1f"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-01-a-400x488.jpg",
+      "title": "Product Name 2",
+      "price": "$59.00",
+      "id": "9289"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-20-b-400x488.jpg",
+      "title": "Product Name 20",
+      "price": "$59.00",
+      "id": "137c"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-02-a-400x488.jpg",
+      "title": "Product Name 3",
+      "price": "$59.00",
+      "id": "b997"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-03-a-400x488.jpg",
+      "title": "Product Name 4",
+      "price": "$59.00",
+      "id": "274c"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-05-a-400x488.jpg",
+      "title": "Product Name 5",
+      "price": "$59.00",
+      "id": "ec7a"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-06-a-400x488.jpg",
+      "title": "Product Name 6",
+      "price": "$59.00",
+      "id": "51ba"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-07-a-400x488.jpg",
+      "title": "Product Name 7",
+      "price": "$59.00",
+      "id": "e46c"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-08-a-400x488.jpg",
+      "title": "Product Name 8",
+      "price": "$59.00",
+      "id": "989f"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-13-a-400x488.jpg",
+      "title": "Product Name 9",
+      "price": "$59.00",
+      "id": "881e"
+    }
+  ],
+  "makeup": [
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-01-a-400x488.jpg",
+      "title": "Product Name 2",
+      "price": "$59.00",
+      "id": "7154"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-05-a-400x488.jpg",
+      "title": "Product Name 5",
+      "price": "$59.00",
+      "id": "c919"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-06-a-400x488.jpg",
+      "title": "Product Name 6",
+      "price": "$59.00",
+      "id": "3cd6"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-07-a-400x488.jpg",
+      "title": "Product Name 7",
+      "price": "$59.00",
+      "id": "825b"
+    }
+  ],
+  "skincare": [
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-14-a-400x488.jpg",
+      "title": "Product Name 10",
+      "price": "$59.00",
+      "id": "7e6e"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-09-a-400x488.jpg",
+      "title": "Product Name 11",
+      "price": "$59.00",
+      "id": "6089"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-10-a-400x488.jpg",
+      "title": "Product Name 12",
+      "price": "$59.00",
+      "id": "64b5"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-10-a-400x488.jpg",
+      "title": "Product Name 13",
+      "price": "$59.00",
+      "id": "98b5"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-11-a-400x488.jpg",
+      "title": "Product Name 14",
+      "price": "$59.00",
+      "id": "4b79"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-12-a-400x488.jpg",
+      "title": "Product Name 15",
+      "price": "$59.00",
+      "id": "5c62"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-15-a-400x488.jpg",
+      "title": "Product Name 16",
+      "price": "$59.00",
+      "id": "5efa"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-17-a-400x488.jpg",
+      "title": "Product Name 17",
+      "price": "$59.00",
+      "id": "5b3e"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-20-b-400x488.jpg",
+      "title": "Product Name 20",
+      "price": "$59.00",
+      "id": "7ce0"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-02-a-400x488.jpg",
+      "title": "Product Name 3",
+      "price": "$59.00",
+      "id": "b3bd"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-03-a-400x488.jpg",
+      "title": "Product Name 4",
+      "price": "$59.00",
+      "id": "a3f0"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-08-a-400x488.jpg",
+      "title": "Product Name 8",
+      "price": "$59.00",
+      "id": "a444"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-13-a-400x488.jpg",
+      "title": "Product Name 9",
+      "price": "$59.00",
+      "id": "a370"
+    }
+  ],
+  "haircare": [
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2023/11/product-04-a-400x488.jpg",
+      "title": "Product Name 1",
+      "price": "$59.00",
+      "id": "4240"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-14-a-400x488.jpg",
+      "title": "Product Name 10",
+      "price": "$59.00",
+      "id": "0f20"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-11-a-400x488.jpg",
+      "title": "Product Name 14",
+      "price": "$59.00",
+      "id": "164b"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-18-a-400x488.jpg",
+      "title": "Product Name 18",
+      "price": "$59.00",
+      "id": "59eb"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-19-a-400x488.jpg",
+      "title": "Product Name 19",
+      "price": "$59.00",
+      "id": "dc79"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-20-b-400x488.jpg",
+      "title": "Product Name 20",
+      "price": "$59.00",
+      "id": "cfa4"
+    },
+    {
+      "url": "https://websitedemos.net/be-bold-beauty-store-04/wp-content/uploads/sites/1117/2022/08/product-13-a-400x488.jpg",
+      "title": "Product Name 9",
+      "price": "$59.00",
+      "id": "894e"
+    }
+  ]
+}
