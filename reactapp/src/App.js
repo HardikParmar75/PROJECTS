@@ -16,6 +16,8 @@ import Skincareone from './Skincareone.js';
 import Haircareone from './Haircareone.js';
 import Register from './Register.js';
 import Login from './Login.js';
+import Cart from './Cart.js';
+import Checkout from './Checkout.js';
 
 function App() {
   return (
@@ -37,6 +39,8 @@ function App() {
         <Route path='/shop' element={<Shop></Shop>}></Route>
         <Route path='/register' element={<Register/>}></Route>
         <Route path='/login' element={<Login/>}></Route>
+        <Route path='/cart' element={<Cart/>}></Route>
+        <Route path='/checkout' element={<Checkout/>}></Route>
       </Routes>
       </BrowserRouter> 
     </>

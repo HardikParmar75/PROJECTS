@@ -13,12 +13,12 @@ function About() {
         </div>
       </div>
       <div className='row w1 m-auto'>
-        <div className='col-xxl-6 p-5'>
+        <div className='col-md-6 p-5'>
        <p className='display-5'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         <hr />
         </div>
-        <div className='col-xxl-6 bg-light p-5'>
+        <div className='col-md-6 bg-light p-5'>
           <p className='fs-3'>Cras ut ultricies risus. Etiam ac malesuada lectus. Sed congue nisi vitae lorem ullamcorper laoreet. In eget tellus mauris. Phasellus id ligula.</p>
           <p className='fs-5'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus eget enim eget tincidunt. In finibus nisi ex, eu interdum urna euismod sit amet. Morbi sollicitudin in magna sed tristique. Nulla pharetra sapien eros, sit amet bibendum nibh consectetur quis. Curabitur tortor dolor, fringilla eu fringilla id, dignissim in urna. </p>
           <p className='fs-5'>Morbi sollicitudin in magna sed tristique. Nulla pharetra sapien eros, sit amet bibendum nibh consectetur quis. Curabitur tortor dolor, fringilla eu fringilla id.</p>
@@ -33,10 +33,10 @@ function About() {
       </div>
 
       <div className='row w1 m-auto mt-5 border'>
-        <div className='col-xxl-6'>
+        <div className='col-md-6'>
           <img src="./images/about-01.jpg" alt="" className='img-fluid' />
         </div>
-        <div className='col-xxl-6 p-5 text-end bg-light'>
+        <div className='col-md-6 p-5 text-end bg-light'>
           <p>ABOUT ME</p>
           <p className='display-3'>Hi, I'm Diana!</p>
           <p className='fs-2'>I'm a 32 years old women entrepreneur, living in Miami, Florida</p>
@@ -45,11 +45,11 @@ function About() {
         </div>
       </div>
       <div className='row w1 m-auto mt-5'>
-        <div className='col-xxl-3'>
+        <div className='col-md-3'>
           <p>WHY CHOOSE US</p>
           <hr />
         </div>
-        <div className='col-xxl-3'>
+        <div className='col-md-3'>
           <div className='row'>
             <div className='col-2'>
               <div className='rounded-circle round1'>
@@ -62,7 +62,7 @@ function About() {
             </div>
           </div>
         </div>
-        <div className='col-xxl-3'>
+        <div className='col-md-3'>
           <div className='row'>
             <div className='col-2'>
               <div className='rounded-circle round1'>
@@ -75,7 +75,7 @@ function About() {
             </div>
           </div>
         </div>
-        <div className='col-xxl-3'>
+        <div className='col-md-3'>
           <div className='row'>
             <div className='col-2'>
               <div className='rounded-circle round1'>

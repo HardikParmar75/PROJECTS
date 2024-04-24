@@ -74,7 +74,7 @@ function Shop() {
                                     <i className='fa-solid fa-star'></i>
                                     <i className='fa-solid fa-star'></i>
                                     <h5 className="card-title">{user.title}</h5>
-                                    <p className="card-text fs-5 fw-bold"><span className='text-decoration-line-through'>$75.00</span> {user.price}</p>
+                                    <p className="card-text fs-5 fw-bold"><span className='text-decoration-line-through'>$75.00</span> ${user.price}</p>
                                 </div>
                             </div>
                         }

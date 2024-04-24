@@ -67,7 +67,7 @@ function Register() {
 
     return (
         <>
-            <Navbar />
+            
             <ToastContainer />
             <div className='w3 m-auto my-5 shadow p-5' >
                 <form onSubmit={handlesubmit} >
@@ -102,7 +102,6 @@ function Register() {
                     <button type='submit' className="btn btn-primary" > Submit </button>
                 </form>
             </div>
-            <Footer> </Footer>
         </>
     );
 }

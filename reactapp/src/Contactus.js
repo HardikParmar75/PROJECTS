@@ -14,14 +14,14 @@ function Contactus() {
       </div>
 
       <div className='row w1 m-auto mt-5 posi'>
-        <div className='col-xxl-6 p-5'>
+        <div className='col-md-6 p-5'>
           <p className='fs-1'>Contact Us</p>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id leo tempor, congue justo at, lobortis orci.</p>
           <p><i className='fa-solid fa-location-dot'></i> 123 Fifth avenue,New york,NY 10160</p>
           <p><i className='fa-solid fa-envelope'></i> contact@info.com</p>
           <p><i className='fa-solid fa-phone'></i> 9-334-7565-9787</p>
         </div>
-        <div className='col-xxl-6 bg-light p-5'>
+        <div className='col-md-6 bg-light p-5'>
           <form class="row g-3 needs-validation" novalidate>
             <div class="col-md-6">
               <label for="validationCustom01" class="form-label">First name <span className='text-danger'>*</span></label>

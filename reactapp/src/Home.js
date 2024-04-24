@@ -75,18 +75,6 @@ function Home() {
       <img src="./images/logo-alice3.png" alt="" className='img-fluid' />
 
     </div>,
-    <div className="item" data-value="5" onDragStart={handleOnDragStart}>
-      <img src="./images/logo-alice4.png" alt="" className='img-fluid' />
-
-    </div>,
-    <div className="item" data-value="6" onDragStart={handleOnDragStart}>
-      <img src="./images/logo-alice5.png" alt="" className='img-fluid' />
-
-    </div>,
-    <div className="item" data-value="7" onDragStart={handleOnDragStart}>
-      <img src="./images/logo-alice6.png" alt="" className='img-fluid' />
-
-    </div>,
   ];
   const [data, setdata] = useState('')
   useEffect(() => {
@@ -102,7 +90,7 @@ function Home() {
     <>
       <Navbar></Navbar>
       <div className='homebg'>
-        <div className='padding1 w-50'>
+        <div className='padding1 w3'>
           <p className='fs-5'>NEW IN TOWN</p>
           <p className='display-1 fw-bold'>The New Beauty Collection</p>
           <p className='fs-3'>This new collection brings with it the most exciting lorem ipsum dolor sit amet</p>
@@ -153,7 +141,7 @@ function Home() {
                   <i className='fa-solid fa-star'></i>
                   <i className='fa-solid fa-star'></i>
                   <h5 className="card-title">{user.title}</h5>
-                  <p className="card-text fs-5 fw-bold"><span className='text-decoration-line-through'>$75.00</span> {user.price}</p>
+                  <p className="card-text fs-5 fw-bold"><span className='text-decoration-line-through'>$75.00</span> ${user.price}</p>
                 </div>
               </div>
             </div>
@@ -193,7 +181,7 @@ function Home() {
                   <i className='fa-solid fa-star'></i>
                   <i className='fa-solid fa-star'></i>
                   <h5 className="card-title">{user.title}</h5>
-                  <p className="card-text fs-5 fw-bold"><span className='text-decoration-line-through'>$75.00</span> {user.price}</p>
+                  <p className="card-text fs-5 fw-bold"><span className='text-decoration-line-through'>$75.00</span> ${user.price}</p>
                 </div>
               </div>
             </div>
@@ -201,7 +189,7 @@ function Home() {
         </div>
       )}
       <div className='anotherbg1 mt-3'>
-        <div className='padding1 w-50'>
+        <div className='padding1 w3'>
           <p className='fs-5'>NEW COLLECTION</p>
           <p className='display-3 fw-bold'>The beauty collection that makes all the difference!</p>
           <p className='fs-5'>Aliquam vulputate, nunc vitae suscipit aliquet, libero arcu hendrerit sapien.</p>
@@ -212,12 +200,12 @@ function Home() {
       </div>
 
       <div className='row me-0'>
-        <div className='col-xxl-6 p-5'>
+        <div className='col-md-6 p-5'>
           <p className='fs-5'>JANE OLIVER</p>
           <p className='fs-1'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus posuere...</p>
           <hr />
         </div>
-        <div className='col-xxl-6 p-5'>
+        <div className='col-md-6 p-5'>
           <div className=''>
             <i className='fa-solid fa-star' style={{ color: 'yellow' }}></i>
             <i className='fa-solid fa-star' style={{ color: 'yellow' }}></i>
@@ -252,9 +240,9 @@ function Home() {
       </div>
 
       <div className='row w1 m-auto'>
-        <div className='col-xxl-6'>
+        <div className='col-lg-6'>
           <div className='anotherbg2'>
-            <div className='padding2 w-75'>
+            <div className='padding2 w4'>
               <p className='fs-5'>NEW COLLECTIONS</p>
               <p className='display-5 fw-bold'>Awesome Makeup Kit Gift Sets</p>
               <p className='fs-5'>Find your unique style.</p>
@@ -264,9 +252,9 @@ function Home() {
             </div>
           </div>
         </div>
-        <div className='col-xxl-6'>
+        <div className='col-lg-6'>
           <div className='anotherbg3'>
-            <div className='padding2 w-75'>
+            <div className='padding2 w4'>
               <p className='fs-5'>NEW COLLECTIONS</p>
               <p className='display-5 fw-bold'>The Ultimate Skincare Regime</p>
               <p className='fs-5'>Find your unique style.</p>
@@ -279,11 +267,11 @@ function Home() {
       </div>
 
       <div className='row w1 m-auto mt-5'>
-        <div className='col-xxl-3'>
+        <div className='col-lg-3'>
           <p>WHY CHOOSE US</p>
           <hr />
         </div>
-        <div className='col-xxl-3'>
+        <div className='col-lg-3'>
           <div className='row'>
             <div className='col-2'>
               <div className='rounded-circle round1'>
@@ -296,7 +284,7 @@ function Home() {
             </div>
           </div>
         </div>
-        <div className='col-xxl-3'>
+        <div className='col-lg-3'>
           <div className='row'>
             <div className='col-2'>
               <div className='rounded-circle round1'>
@@ -309,7 +297,7 @@ function Home() {
             </div>
           </div>
         </div>
-        <div className='col-xxl-3'>
+        <div className='col-lg-3'>
           <div className='row'>
             <div className='col-2'>
               <div className='rounded-circle round1'>
