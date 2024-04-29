@@ -1,0 +1,18 @@
+{
+  "signupdata": [
+    {
+      "id": "9cb5",
+      "name": "hardik",
+      "email": "h@gmail.com",
+      "phone": "123456",
+      "password": "123"
+    },
+    {
+      "id": "412a",
+      "name": "hardik",
+      "email": "h@gmail.com",
+      "phone": "123456",
+      "password": "123456"
+    }
+  ]
+}
